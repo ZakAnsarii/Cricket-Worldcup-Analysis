@@ -1,6 +1,6 @@
 # Cricket-Worldcup-Analysis
 
-## This Project is about creating a dream team (11 players) from the teams who played in the World cup. For this particular the visualisation that we have utilized is PowerBi because its various functionalities.
+### This Project is about creating a dream team (11 players) from the teams who played in the World cup. For this particular the visualisation that we have utilized is PowerBi because its various functionalities.
 
 ##
 - Heading 1
